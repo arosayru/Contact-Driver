@@ -7,7 +7,7 @@
   State manager.</p>
 
   <h1>Built with</h1>
-  <p>This section should list any major frameworks/libraries used to bootstrap your project. 
+  <p>This section should list any major frameworks/libraries used to bootstrap my project. 
     Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.</p>
   <ul>
     <li>React.js</li>
